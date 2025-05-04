@@ -11,4 +11,7 @@ test:
 format:
 	black *.py
 
+run:
+	python app.py
+
 all: install lint test format

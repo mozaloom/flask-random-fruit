@@ -2,10 +2,6 @@
 
 A simple Flask web application that generates random fruit suggestions.
 
-## Description
-
-This application serves a web page that displays a randomly selected fruit each time it loads or when refreshed. It's built with Flask and includes a test suite to verify functionality.
-
 ## Installation
 
 1. Clone the repository:
@@ -50,8 +46,3 @@ Or use the Makefile:
 ```
 make test
 ```
-
-## License
-
-This project is licensed under the terms included in the LICENSE file.
-
